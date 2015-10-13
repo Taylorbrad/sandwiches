@@ -4,8 +4,9 @@
 2. [BLT](./BLT.md) - A traditional American sandwich made with bacon, lettuce, and tomato
 3. [Classic Breakfast](./Classic-Breakfast.md) - A quick and simple breakfast sandwich.
 4. [Grilled Cheese](./Grilled-Cheese.md) - A classic grilled sandwich.
-5. [Turkey Chutney](./Turkey-Chutney.md) - A classic sandwich copied from a local bakery's menu.
-6. [Turkey Cranberry](./Turkey-Cranberry.md) - A traditional post-Thanksgiving leftover sandwich with brined turkey.
+5. [PB & J](https://github.com/Taylorbrad/sandwiches/blob/master/PB%26J.md) - The only sandwich that never goes out of style.
+6. [Turkey Chutney](./Turkey-Chutney.md) - A classic sandwich copied from a local bakery's menu.
+7. [Turkey Cranberry](./Turkey-Cranberry.md) - A traditional post-Thanksgiving leftover sandwich with brined turkey.
 
 ## Background
 
